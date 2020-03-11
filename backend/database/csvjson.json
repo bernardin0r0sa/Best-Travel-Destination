@@ -1,0 +1,1604 @@
+[
+  {
+    "name": "United Arab Emirates",
+    "cost": "Regular",
+    "type": [
+      "Family"
+    ],
+    "entertainment": [
+      "Attractions",
+      "Relaxing",
+      "Photography",
+      "Parties"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "currency": "United Arab Emirates dirham",
+    "language": [
+      "Arabic"
+    ],
+    "capital": "Abu Dhabi"
+  },
+  {
+    "name": "Antarctica",
+    "cost": "Regular",
+    "type": "",
+    "entertainment": [
+      "Adventure"
+    ],
+    "region": "Polar",
+    "subregion": "",
+    "currency": "",
+    "language": [
+      "English",
+      "Russian"
+    ],
+    "capital": ""
+  },
+  {
+    "name": "Argentina",
+    "cost": "Low",
+    "type": [
+      "Solo",
+      "Friends"
+    ],
+    "entertainment": [
+      "Relaxing"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "currency": "Argentine peso",
+    "language": [
+      "Spanish",
+      "Guaraní"
+    ],
+    "capital": "Buenos Aires"
+  },
+  {
+    "name": "Armenia",
+    "cost": "Low",
+    "type": [
+      "Friends"
+    ],
+    "entertainment": "",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "currency": "Armenian dram",
+    "language": [
+      "Armenian",
+      "Russian"
+    ],
+    "capital": "Yerevan"
+  },
+  {
+    "name": "Australia",
+    "cost": "Regular",
+    "type": [
+      "Solo",
+      "Family",
+      "Couple"
+    ],
+    "entertainment": [
+      "Attractions",
+      "Relaxing",
+      "Photography",
+      "Adventure"
+    ],
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "currency": "Australian dollar",
+    "language": [
+      "English"
+    ],
+    "capital": "Canberra"
+  },
+  {
+    "name": "Austria",
+    "cost": "Regular",
+    "type": [
+      "Friends"
+    ],
+    "entertainment": [
+      "Adventure",
+      "Photography"
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "currency": "Euro",
+    "language": [
+      "German"
+    ],
+    "capital": "Vienna"
+  },
+  {
+    "name": "Bahamas",
+    "cost": "Regular",
+    "type": [
+      "Friends"
+    ],
+    "entertainment": "",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "currency": "Bahamian dollar",
+    "language": [
+      "English"
+    ],
+    "capital": "Nassau"
+  },
+  {
+    "name": "Belgium",
+    "cost": "Regular",
+    "type": [
+      "Couple"
+    ],
+    "entertainment": "",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "currency": "Euro",
+    "language": [
+      "Dutch",
+      "French",
+      "German"
+    ],
+    "capital": "Brussels"
+  },
+  {
+    "name": "Belize",
+    "cost": "Regular",
+    "type": [
+      "Couple"
+    ],
+    "entertainment": [
+      "Adventure",
+      "Relaxing"
+    ],
+    "region": "Americas",
+    "subregion": "Central America",
+    "currency": "Belize dollar",
+    "language": [
+      "English",
+      "Spanish"
+    ],
+    "capital": "Belmopan"
+  },
+  {
+    "name": "Bermuda",
+    "cost": "Regular",
+    "type": [
+      "Friends",
+      "Couple"
+    ],
+    "entertainment": "",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "currency": "Bermudian dollar",
+    "language": [
+      "English"
+    ],
+    "capital": "Hamilton"
+  },
+  {
+    "name": "Bolivia",
+    "cost": "Low",
+    "type": [
+      "Friends"
+    ],
+    "entertainment": [
+      "Adventure"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "currency": "Bolivian boliviano",
+    "language": [
+      "Spanish",
+      "Aymara",
+      "Quechua"
+    ],
+    "capital": "Sucre"
+  },
+  {
+    "name": "Brazil",
+    "cost": "Regular",
+    "type": "",
+    "entertainment": [
+      "Attractions",
+      "Photography"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "currency": "Brazilian real",
+    "language": [
+      "Portuguese"
+    ],
+    "capital": "Brasília"
+  },
+  {
+    "name": "British Virgin Islands",
+    "cost": "Regular",
+    "type": [
+      "Couple"
+    ],
+    "entertainment": "",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "currency": "United States dollar",
+    "language": [
+      "English"
+    ],
+    "capital": "Road Town"
+  },
+  {
+    "name": "Bulgaria",
+    "cost": "Low",
+    "type": [
+      "Couple",
+      "Family"
+    ],
+    "entertainment": "",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "currency": "Bulgarian lev",
+    "language": [
+      "Bulgarian"
+    ],
+    "capital": "Sofia"
+  },
+  {
+    "name": "Cambodia",
+    "cost": "Low",
+    "type": [
+      "Friends"
+    ],
+    "entertainment": [
+      "Attractions",
+      "Relaxing",
+      "Photography"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "currency": "Cambodian riel",
+    "language": [
+      "Khmer"
+    ],
+    "capital": "Phnom Penh"
+  },
+  {
+    "name": "Canada",
+    "cost": "Regular",
+    "type": [
+      "Solo",
+      "Family",
+      "Friends"
+    ],
+    "entertainment": [
+      "Adventure",
+      "Attractions",
+      "Relaxing"
+    ],
+    "region": "Americas",
+    "subregion": "Northern America",
+    "currency": "Canadian dollar",
+    "language": [
+      "English",
+      "French"
+    ],
+    "capital": "Ottawa"
+  },
+  {
+    "name": "Chile",
+    "cost": "Regular",
+    "type": [
+      "Family",
+      "Couple"
+    ],
+    "entertainment": [
+      "Adventure",
+      "Relaxing"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "currency": "Chilean peso",
+    "language": [
+      "Spanish"
+    ],
+    "capital": "Santiago"
+  },
+  {
+    "name": "China",
+    "cost": "Regular",
+    "type": "",
+    "entertainment": [
+      "Attractions",
+      "Relaxing"
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "currency": "Chinese yuan",
+    "language": [
+      "Chinese"
+    ],
+    "capital": "Beijing"
+  },
+  {
+    "name": "Colombia",
+    "cost": "Low",
+    "type": [
+      "Friends"
+    ],
+    "entertainment": [
+      "Adventure",
+      "Photography"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "currency": "Colombian peso",
+    "language": [
+      "Spanish"
+    ],
+    "capital": "Bogotá"
+  },
+  {
+    "name": "Costa Rica",
+    "cost": "Regular",
+    "type": [
+      "Family",
+      "Couple"
+    ],
+    "entertainment": [
+      "Adventure",
+      "Relaxing"
+    ],
+    "region": "Americas",
+    "subregion": "Central America",
+    "currency": "Costa Rican colón",
+    "language": [
+      "Spanish"
+    ],
+    "capital": "San José"
+  },
+  {
+    "name": "Croatia",
+    "cost": "Low",
+    "type": [
+      "Family",
+      "Friends",
+      "Couple"
+    ],
+    "entertainment": [
+      "Relaxing",
+      "Parties"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "currency": "Croatian kuna",
+    "language": [
+      "Croatian"
+    ],
+    "capital": "Zagreb"
+  },
+  {
+    "name": "Cuba",
+    "cost": "Regular",
+    "type": [
+      "Solo",
+      "Friends"
+    ],
+    "entertainment": "",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "currency": "Cuban convertible peso",
+    "language": [
+      "Spanish"
+    ],
+    "capital": "Havana"
+  },
+  {
+    "name": "Cyprus",
+    "cost": "Low",
+    "type": [
+      "Couple"
+    ],
+    "entertainment": "",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "currency": "Euro",
+    "language": [
+      "Greek",
+      "Turkish",
+      "Armenian"
+    ],
+    "capital": "Nicosia"
+  },
+  {
+    "name": "Czech Republic",
+    "cost": "Regular",
+    "type": [
+      "Friends",
+      "Couple"
+    ],
+    "entertainment": [
+      "Attractions",
+      "Parties"
+    ],
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "currency": "Czech koruna",
+    "language": [
+      "Czech",
+      "Slovak"
+    ],
+    "capital": "Prague"
+  },
+  {
+    "name": "Denmark",
+    "cost": "Regular",
+    "type": [
+      "Friends"
+    ],
+    "entertainment": "",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "currency": "Danish krone",
+    "language": [
+      "Danish"
+    ],
+    "capital": "Copenhagen"
+  },
+  {
+    "name": "Dominican Republic",
+    "cost": "Regular",
+    "type": "",
+    "entertainment": [
+      "Adventure"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "currency": "Dominican peso",
+    "language": [
+      "Spanish"
+    ],
+    "capital": "Santo Domingo"
+  },
+  {
+    "name": "Ecuador",
+    "cost": "Regular",
+    "type": "",
+    "entertainment": [
+      "Adventure"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "currency": "United States dollar",
+    "language": [
+      "Spanish"
+    ],
+    "capital": "Quito"
+  },
+  {
+    "name": "Egypt",
+    "cost": "Regular",
+    "type": "",
+    "entertainment": [
+      "Adventure",
+      "Attractions"
+    ],
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "currency": "Egyptian pound",
+    "language": [
+      "Arabic"
+    ],
+    "capital": "Cairo"
+  },
+  {
+    "name": "Estonia",
+    "cost": "Low",
+    "type": [
+      "Friends"
+    ],
+    "entertainment": "",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "currency": "Euro",
+    "language": [
+      "Estonian"
+    ],
+    "capital": "Tallinn"
+  },
+  {
+    "name": "Fiji",
+    "cost": "Regular",
+    "type": [
+      "Couple"
+    ],
+    "entertainment": "",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "currency": "Fijian dollar",
+    "language": [
+      "English",
+      "Fijian",
+      "Hindi",
+      "Urdu"
+    ],
+    "capital": "Suva"
+  },
+  {
+    "name": "Finland",
+    "cost": "Regular",
+    "type": [
+      "Friends"
+    ],
+    "entertainment": [
+      "Relaxing"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "currency": "Euro",
+    "language": [
+      "Finnish",
+      "Swedish"
+    ],
+    "capital": "Helsinki"
+  },
+  {
+    "name": "France",
+    "cost": "Regular",
+    "type": [
+      "Solo",
+      "Family",
+      "Friends",
+      "Couple"
+    ],
+    "entertainment": [
+      "Attractions",
+      "Relaxing",
+      "Photography",
+      "Parties"
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "currency": "Euro",
+    "language": [
+      "French"
+    ],
+    "capital": "Paris"
+  },
+  {
+    "name": "French Polynesia",
+    "cost": "Regular",
+    "type": [
+      "Couple"
+    ],
+    "entertainment": [
+      "Relaxing"
+    ],
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "currency": "CFP franc",
+    "language": [
+      "French"
+    ],
+    "capital": "Papeetē"
+  },
+  {
+    "name": "Germany",
+    "cost": "Regular",
+    "type": [
+      "Solo",
+      "Family"
+    ],
+    "entertainment": [
+      "Photography"
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "currency": "Euro",
+    "language": [
+      "German"
+    ],
+    "capital": "Berlin"
+  },
+  {
+    "name": "Greece",
+    "cost": "Low",
+    "type": [
+      "Solo",
+      "Friends",
+      "Couple"
+    ],
+    "entertainment": [
+      "Attractions",
+      "Relaxing",
+      "Photography"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "currency": "Euro",
+    "language": [
+      "Greek"
+    ],
+    "capital": "Athens"
+  },
+  {
+    "name": "Greenland",
+    "cost": "Regular",
+    "type": "",
+    "entertainment": [
+      "Adventure"
+    ],
+    "region": "Americas",
+    "subregion": "Northern America",
+    "currency": "Danish krone",
+    "language": [
+      "Kalaallisut"
+    ],
+    "capital": "Nuuk"
+  },
+  {
+    "name": "Grenada",
+    "cost": "Regular",
+    "type": [
+      "Family",
+      "Couple"
+    ],
+    "entertainment": "",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "currency": "East Caribbean dollar",
+    "language": [
+      "English"
+    ],
+    "capital": "St. George's"
+  },
+  {
+    "name": "Guatemala",
+    "cost": "Low",
+    "type": [
+      "Friends"
+    ],
+    "entertainment": [
+      "Adventure",
+      "Relaxing"
+    ],
+    "region": "Americas",
+    "subregion": "Central America",
+    "currency": "Guatemalan quetzal",
+    "language": [
+      "Spanish"
+    ],
+    "capital": "Guatemala City"
+  },
+  {
+    "name": "Hong Kong",
+    "cost": "Regular",
+    "type": "",
+    "entertainment": [
+      "Attractions",
+      "Photography"
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "currency": "Hong Kong dollar",
+    "language": [
+      "English",
+      "Chinese"
+    ],
+    "capital": "City of Victoria"
+  },
+  {
+    "name": "Hungary",
+    "cost": "Regular",
+    "type": [
+      "Friends",
+      "Couple"
+    ],
+    "entertainment": [
+      "Relaxing",
+      "Parties"
+    ],
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "currency": "Hungarian forint",
+    "language": [
+      "Hungarian"
+    ],
+    "capital": "Budapest"
+  },
+  {
+    "name": "Iceland",
+    "cost": "Regular",
+    "type": [
+      "Solo",
+      "Friends",
+      "Couple"
+    ],
+    "entertainment": [
+      "Adventure",
+      "Attractions",
+      "Relaxing",
+      "Photography"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "currency": "Icelandic króna",
+    "language": [
+      "Icelandic"
+    ],
+    "capital": "Reykjavík"
+  },
+  {
+    "name": "India",
+    "cost": "Low",
+    "type": [
+      "Family"
+    ],
+    "entertainment": [
+      "Adventure",
+      "Attractions",
+      "Relaxing"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "currency": "Indian rupee",
+    "language": [
+      "Hindi",
+      "English"
+    ],
+    "capital": "New Delhi"
+  },
+  {
+    "name": "Indonesia",
+    "cost": "Low",
+    "type": [
+      "Family",
+      "Friends",
+      "Couple"
+    ],
+    "entertainment": [
+      "Adventure",
+      "Relaxing",
+      "Photography",
+      "Parties"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "currency": "Indonesian rupiah",
+    "language": [
+      "Indonesian"
+    ],
+    "capital": "Jakarta"
+  },
+  {
+    "name": "Ireland",
+    "cost": "Low",
+    "type": [
+      "Solo",
+      "Family",
+      "Friends"
+    ],
+    "entertainment": [
+      "Photography"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "currency": "Euro",
+    "language": [
+      "Irish",
+      "English"
+    ],
+    "capital": "Dublin"
+  },
+  {
+    "name": "Italy",
+    "cost": "Low",
+    "type": [
+      "Solo",
+      "Family",
+      "Friends",
+      "Couple"
+    ],
+    "entertainment": [
+      "Attractions",
+      "Relaxing",
+      "Photography"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "currency": "Euro",
+    "language": [
+      "Italian"
+    ],
+    "capital": "Rome"
+  },
+  {
+    "name": "Jamaica",
+    "cost": "Low",
+    "type": [
+      "Couple"
+    ],
+    "entertainment": [
+      "Relaxing"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "currency": "Jamaican dollar",
+    "language": [
+      "English"
+    ],
+    "capital": "Kingston"
+  },
+  {
+    "name": "Japan",
+    "cost": "Regular",
+    "type": [
+      "Solo",
+      "Family",
+      "Friends",
+      "Couple"
+    ],
+    "entertainment": [
+      "Relaxing",
+      "Photography"
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "currency": "Japanese yen",
+    "language": [
+      "Japanese"
+    ],
+    "capital": "Tokyo"
+  },
+  {
+    "name": "Jordan",
+    "cost": "Regular",
+    "type": "",
+    "entertainment": [
+      "Attractions",
+      "Relaxing",
+      "Photography"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "currency": "Jordanian dinar",
+    "language": [
+      "Arabic"
+    ],
+    "capital": "Amman"
+  },
+  {
+    "name": "Kenya",
+    "cost": "Low",
+    "type": [
+      "Couple"
+    ],
+    "entertainment": [
+      "Relaxing"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "currency": "Kenyan shilling",
+    "language": [
+      "English",
+      "Swahili"
+    ],
+    "capital": "Nairobi"
+  },
+  {
+    "name": "Laos",
+    "cost": "Low",
+    "type": [
+      "Friends"
+    ],
+    "entertainment": [
+      "Relaxing"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "currency": "Lao kip",
+    "language": [
+      "Lao"
+    ],
+    "capital": "Vientiane"
+  },
+  {
+    "name": "Latvia",
+    "cost": "Low",
+    "type": [
+      "Friends"
+    ],
+    "entertainment": "",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "currency": "Euro",
+    "language": [
+      "Latvian"
+    ],
+    "capital": "Riga"
+  },
+  {
+    "name": "Lithuania",
+    "cost": "Low",
+    "type": [
+      "Friends"
+    ],
+    "entertainment": "",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "currency": "Euro",
+    "language": [
+      "Lithuanian"
+    ],
+    "capital": "Vilnius"
+  },
+  {
+    "name": "Madagascar",
+    "cost": "Regular",
+    "type": "",
+    "entertainment": [
+      "Adventure"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "currency": "Malagasy ariary",
+    "language": [
+      "French",
+      "Malagasy"
+    ],
+    "capital": "Antananarivo"
+  },
+  {
+    "name": "Malaysia",
+    "cost": "Regular",
+    "type": [
+      "Solo",
+      "Family",
+      "Friends"
+    ],
+    "entertainment": [
+      "Attractions",
+      "Relaxing",
+      "Photography"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "currency": "Malaysian ringgit",
+    "language": [
+      "Malaysian"
+    ],
+    "capital": "Kuala Lumpur"
+  },
+  {
+    "name": "Maldives",
+    "cost": "Regular",
+    "type": [
+      "Couple"
+    ],
+    "entertainment": [
+      "Relaxing",
+      "Photography"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "currency": "Maldivian rufiyaa",
+    "language": [
+      "Divehi"
+    ],
+    "capital": "Malé"
+  },
+  {
+    "name": "Malta",
+    "cost": "Low",
+    "type": [
+      "Family"
+    ],
+    "entertainment": "",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "currency": "Euro",
+    "language": [
+      "Maltese",
+      "English"
+    ],
+    "capital": "Valletta"
+  },
+  {
+    "name": "Mexico",
+    "cost": "Low",
+    "type": [
+      "Family",
+      "Friends",
+      "Couple"
+    ],
+    "entertainment": [
+      "Attractions",
+      "Relaxing"
+    ],
+    "region": "Americas",
+    "subregion": "Central America",
+    "currency": "Mexican peso",
+    "language": [
+      "Spanish"
+    ],
+    "capital": "Mexico City"
+  },
+  {
+    "name": "Morocco",
+    "cost": "Low",
+    "type": [
+      "Solo",
+      "Friends",
+      "Couple"
+    ],
+    "entertainment": [
+      "Adventure",
+      "Relaxing",
+      "Photography"
+    ],
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "currency": "Moroccan dirham",
+    "language": [
+      "Arabic"
+    ],
+    "capital": "Rabat"
+  },
+  {
+    "name": "Myanmar",
+    "cost": "Regular",
+    "type": "",
+    "entertainment": [
+      "Relaxing",
+      "Photography"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "currency": "Burmese kyat",
+    "language": [
+      "Burmese"
+    ],
+    "capital": "Naypyidaw"
+  },
+  {
+    "name": "Namibia",
+    "cost": "Regular",
+    "type": "",
+    "entertainment": [
+      "Adventure"
+    ],
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "currency": "Namibian dollar",
+    "language": [
+      "English",
+      "Afrikaans"
+    ],
+    "capital": "Windhoek"
+  },
+  {
+    "name": "Nepal",
+    "cost": "Low",
+    "type": [
+      "Friends"
+    ],
+    "entertainment": "",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "currency": "Nepalese rupee",
+    "language": [
+      "Nepali"
+    ],
+    "capital": "Kathmandu"
+  },
+  {
+    "name": "Netherlands",
+    "cost": "Regular",
+    "type": [
+      "Solo",
+      "Friends"
+    ],
+    "entertainment": [
+      "Relaxing"
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "currency": "Euro",
+    "language": [
+      "Dutch"
+    ],
+    "capital": "Amsterdam"
+  },
+  {
+    "name": "New Zealand",
+    "cost": "Regular",
+    "type": [
+      "Solo",
+      "Family"
+    ],
+    "entertainment": [
+      "Adventure",
+      "Relaxing",
+      "Photography"
+    ],
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "currency": "New Zealand dollar",
+    "language": [
+      "English",
+      "Māori"
+    ],
+    "capital": "Wellington"
+  },
+  {
+    "name": "Norway",
+    "cost": "Regular",
+    "type": [
+      "Family"
+    ],
+    "entertainment": [
+      "Photography"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "currency": "Norwegian krone",
+    "language": [
+      "Norwegian",
+      "Norwegian Bokmål",
+      "Norwegian Nynorsk"
+    ],
+    "capital": "Oslo"
+  },
+  {
+    "name": "Panama",
+    "cost": "Regular",
+    "type": [
+      "Family"
+    ],
+    "entertainment": [
+      "Attractions"
+    ],
+    "region": "Americas",
+    "subregion": "Central America",
+    "currency": "Panamanian balboa",
+    "language": [
+      "Spanish"
+    ],
+    "capital": "Panama City"
+  },
+  {
+    "name": "Peru",
+    "cost": "Regular",
+    "type": [
+      "Solo",
+      "Family",
+      "Friends"
+    ],
+    "entertainment": [
+      "Adventure",
+      "Attractions",
+      "Relaxing"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "currency": "Peruvian sol",
+    "language": [
+      "Spanish"
+    ],
+    "capital": "Lima"
+  },
+  {
+    "name": "Philippines",
+    "cost": "Low",
+    "type": [
+      "Friends"
+    ],
+    "entertainment": [
+      "Parties"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "currency": "Philippine peso",
+    "language": [
+      "English"
+    ],
+    "capital": "Manila"
+  },
+  {
+    "name": "Poland",
+    "cost": "Low",
+    "type": [
+      "Solo"
+    ],
+    "entertainment": "",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "currency": "Polish złoty",
+    "language": [
+      "Polish"
+    ],
+    "capital": "Warsaw"
+  },
+  {
+    "name": "Portugal",
+    "cost": "Low",
+    "type": [
+      "Solo",
+      "Family",
+      "Friends",
+      "Couple"
+    ],
+    "entertainment": [
+      "Relaxing"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "currency": "Euro",
+    "language": [
+      "Portuguese"
+    ],
+    "capital": "Lisbon"
+  },
+  {
+    "name": "Puerto Rico",
+    "cost": "Low",
+    "type": [
+      "Solo"
+    ],
+    "entertainment": "",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "currency": "United States dollar",
+    "language": [
+      "Spanish",
+      "English"
+    ],
+    "capital": "San Juan"
+  },
+  {
+    "name": "Romania",
+    "cost": "Low",
+    "type": [
+      "Friends"
+    ],
+    "entertainment": "",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "currency": "Romanian leu",
+    "language": [
+      "Romanian"
+    ],
+    "capital": "Bucharest"
+  },
+  {
+    "name": "Russia",
+    "cost": "Regular",
+    "type": "",
+    "entertainment": [
+      "Attractions"
+    ],
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "currency": "Russian ruble",
+    "language": [
+      "Russian"
+    ],
+    "capital": "Moscow"
+  },
+  {
+    "name": "Singapore",
+    "cost": "Regular",
+    "type": [
+      "Solo"
+    ],
+    "entertainment": [
+      "Photography",
+      "Parties"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "currency": "Brunei dollar",
+    "language": [
+      "English",
+      "Malay",
+      "Tamil",
+      "Chinese"
+    ],
+    "capital": "Singapore"
+  },
+  {
+    "name": "Slovenia",
+    "cost": "Regular",
+    "type": "",
+    "entertainment": [
+      "Adventure",
+      "Relaxing",
+      "Photography"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "currency": "Euro",
+    "language": [
+      "Slovene"
+    ],
+    "capital": "Ljubljana"
+  },
+  {
+    "name": "South Africa",
+    "cost": "Regular",
+    "type": [
+      "Family",
+      "Couple"
+    ],
+    "entertainment": [
+      "Adventure",
+      "Relaxing",
+      "Photography"
+    ],
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "currency": "South African rand",
+    "language": [
+      "Afrikaans",
+      "English",
+      "Southern Ndebele",
+      "Southern Sotho",
+      "Swati",
+      "Tswana",
+      "Tsonga",
+      "Venda",
+      "Xhosa",
+      "Zulu"
+    ],
+    "capital": "Pretoria"
+  },
+  {
+    "name": "South Korea",
+    "cost": "Low",
+    "type": [
+      "Solo"
+    ],
+    "entertainment": "",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "currency": "North Korean won",
+    "language": [
+      "Korean"
+    ],
+    "capital": "Pyongyang"
+  },
+  {
+    "name": "Spain",
+    "cost": "Low",
+    "type": [
+      "Solo",
+      "Family",
+      "Friends",
+      "Couple"
+    ],
+    "entertainment": [
+      "Attractions",
+      "Relaxing",
+      "Parties",
+      "Photography"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "currency": "Euro",
+    "language": [
+      "Spanish"
+    ],
+    "capital": "Madrid"
+  },
+  {
+    "name": "Sri Lanka",
+    "cost": "Low",
+    "type": [
+      "Family"
+    ],
+    "entertainment": [
+      "Adventure",
+      "Relaxing",
+      "Photography"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "currency": "Sri Lankan rupee",
+    "language": [
+      "Sinhalese",
+      "Tamil"
+    ],
+    "capital": "Colombo"
+  },
+  {
+    "name": "Sweden",
+    "cost": "Regular",
+    "type": [
+      "Solo",
+      "Family",
+      "Friends"
+    ],
+    "entertainment": [
+      "Photography"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "currency": "Swedish krona",
+    "language": [
+      "Swedish"
+    ],
+    "capital": "Stockholm"
+  },
+  {
+    "name": "Switzerland",
+    "cost": "Regular",
+    "type": "",
+    "entertainment": [
+      "Relaxing",
+      "Photography"
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "currency": "Swiss franc",
+    "language": [
+      "German",
+      "French",
+      "Italian"
+    ],
+    "capital": "Bern"
+  },
+  {
+    "name": "Tanzania",
+    "cost": "Regular",
+    "type": [
+      "Solo",
+      "Family"
+    ],
+    "entertainment": [
+      "Adventure"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "currency": "Tanzanian shilling",
+    "language": [
+      "Swahili",
+      "English"
+    ],
+    "capital": "Dodoma"
+  },
+  {
+    "name": "Thailand",
+    "cost": "Regular",
+    "type": [
+      "Solo",
+      "Family",
+      "Friends",
+      "Couple"
+    ],
+    "entertainment": [
+      "Adventure",
+      "Attractions",
+      "Relaxing",
+      "Photography",
+      "Parties"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "currency": "Thai baht",
+    "language": [
+      "Thai"
+    ],
+    "capital": "Bangkok"
+  },
+  {
+    "name": "Turkey",
+    "cost": "Low",
+    "type": [
+      "Friends",
+      "Couple"
+    ],
+    "entertainment": [
+      "Attractions"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "currency": "Turkish lira",
+    "language": [
+      "Turkish"
+    ],
+    "capital": "Ankara"
+  },
+  {
+    "name": "UK",
+    "cost": "Regular",
+    "type": [
+      "Solo",
+      "Family"
+    ],
+    "entertainment": [
+      "Attractions",
+      "Relaxing",
+      "Photography",
+      "Parties"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "currency": "British pound",
+    "language": [
+      "English"
+    ],
+    "capital": "London"
+  },
+  {
+    "name": "Ukraine",
+    "cost": "Low",
+    "type": [
+      "Friends"
+    ],
+    "entertainment": "",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "currency": "Ukrainian hryvnia",
+    "language": [
+      "Ukrainian"
+    ],
+    "capital": "Kiev"
+  },
+  {
+    "name": "USA",
+    "cost": "Regular",
+    "type": [
+      "Solo",
+      "Family",
+      "Friends",
+      "Couple"
+    ],
+    "entertainment": [
+      "Adventure",
+      "Attractions",
+      "Relaxing",
+      "Photography",
+      "Parties"
+    ],
+    "region": "Americas",
+    "subregion": "Northern America",
+    "currency": "United States dollar",
+    "language": [
+      "English"
+    ],
+    "capital": "Washington, D.C."
+  },
+  {
+    "name": "Uzbekistan",
+    "cost": "Regular",
+    "type": "",
+    "entertainment": [
+      "Adventure"
+    ],
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "currency": "Uzbekistani so'm",
+    "language": [
+      "Uzbek",
+      "Russian"
+    ],
+    "capital": "Tashkent"
+  },
+  {
+    "name": "Vietnam",
+    "cost": "Low",
+    "type": [
+      "Friends",
+      "Couple"
+    ],
+    "entertainment": [
+      "Relaxing"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "currency": "Vietnamese đồng",
+    "language": [
+      "Vietnamese"
+    ],
+    "capital": "Hanoi"
+  }
+]

@@ -1,0 +1,138 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "version": "1.0.0",
+        "title": "Best Travel Destination",
+        "description": "Find the perfect destination for your next travel",
+        "license": {
+            "name": "MIT",
+            "url": "https://opensource.org/licenses/MIT"
+        }
+    },
+    "definitions": {
+        "id": {
+            "properties": {
+                "uuid": {
+                    "type": "string"
+                }
+            }
+        },
+        "Country": {
+            "type": "object",
+            "properties": {
+                "name": {
+                    "type": "string"
+                 },
+                 "type": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                 },
+                 "entertainment": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                 },
+                 "cost": {
+                  "type": "string"
+               },
+               "region": {
+                    "type": "string"
+                 },
+                "subregion": {
+                    "type": "string"
+                 },
+                "currency": {
+                    "type": "string"
+                 },
+                 "language": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                   },
+                   "capital": {
+                    "type": "string"
+                 }
+            }
+        }
+    },
+    "tags": [
+        {
+            "name": "BTD",
+            "description": "API for finding the perfect travel destination"
+        }
+    ],
+    "consumes": [
+        "application/json"
+    ],
+    "produces": [
+        "application/json"
+    ],
+    "paths": {
+        "/api": {
+            "get": {
+                "tags": [
+                    "BTD"
+                ],
+                "summary": "Get all the travel destinations in system",
+                "responses": {
+                    "200": {
+                        "description": "OK",
+                        "schema": {
+                            "$ref": "#/definitions/Country"
+                        }
+                    }
+                }
+            }
+        },
+        "/api/find?type=###&entertainment=###&cost=###": {
+            
+            "get": {
+                "tags": [
+                    "BTD"
+                ],
+                "summary": "Get travel destination with multiple options",
+                "parameters": [
+                    {
+                        "in": "query",
+                        "name": "type",
+                        "required": false,
+                        "description": "Choose one type of travel - Solo,Family,Friends or Couple",
+                        "example": "Friends",
+                        "allowEmptyValue" : true
+                    },
+                    {
+                        "in": "query",
+                        "name": "entertainment",
+                        "required": false,
+                        "description": "Choose one type of entertainment - Parties, Adventure, Attractions, Relaxing or Photography",
+                        "example": "Attractions",
+                        "allowEmptyValue" : true
+                    },
+                    {
+                        "in": "query",
+                        "name": "cost",
+                        "required": false,
+                        "description": "Choose one type of cost - Regular or Low",
+                        "example": "Regular",
+                        "allowEmptyValue" : true
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "OK",
+                        "schema": {
+                            "$ref": "#/definitions/Country"
+                        }
+                    },
+                    "404": {
+                        "description": "Travel Destination not found."
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,79 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+    height: 100vh;
+    background-color: #efecec;
+}
+
+.card {
+ border:none;
+}
+.title{
+    padding-bottom: 2rem;
+}
+
+.card-deck{
+    display: grid!important;
+    grid-template-columns: repeat(auto-fit,minmax(200px,1fr))!important;
+    grid-gap: .5rem!important;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 15rem;
+    object-fit: cover;
+}
+
+.cardStyle:hover{
+    cursor: pointer;
+    transform: scale(1.2);
+    transition: transform .2s;
+}
+
+.page-header { 
+    position: relative; 
+    background-size: cover; }
+
+.page-caption { 
+    padding-top: 170px; 
+    padding-bottom: 174px; }
+
+.page-title { 
+    font-size: 3rem; 
+    line-height: 1; 
+    color: #fff; 
+    font-weight: 600; 
+    text-align: center; }
+
+ .page-title:hover{
+    cursor: pointer;
+ }    
+
+.card-section { 
+    position: relative; 
+    /*bottom: 5rem;*/
+ }
+.card-block { 
+    padding: 3rem; }
+
+@media only screen and (max-width : 768px) {
+    .cardCountry:hover {
+        /*CSS transitions*/
+        -o-transition-property: none !important;
+        -moz-transition-property: none !important;
+        -ms-transition-property: none !important;
+        -webkit-transition-property: none !important;
+        transition-property: none !important;
+        /*CSS transforms*/
+        -o-transform: none !important;
+        -moz-transform: none !important;
+        -ms-transform: none !important;
+        -webkit-transform: none !important;
+        transform: none !important;
+        /*CSS animations*/
+        -webkit-animation: none !important;
+        -moz-animation: none !important;
+        -o-animation: none !important;
+        -ms-animation: none !important;
+        animation: none !important;
+    }
+}

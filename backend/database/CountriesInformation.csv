@@ -1,0 +1,89 @@
+name,cost,type,entertainment,region,subregion,currency,language,capital
+United Arab Emirates,Regular,"[""Family""]","[""Attractions"",""Relaxing"",""Photography"",""Parties""]",Asia,Western Asia,United Arab Emirates dirham,"[""Arabic""]",Abu Dhabi
+Antarctica,Regular,,"[""Adventure""]",Polar,,,"[""English"",""Russian""]",
+Argentina,Low,"[""Solo"",""Friends""]","[""Relaxing""]",Americas,South America,Argentine peso,"[""Spanish"",""Guaraní""]",Buenos Aires
+Armenia,Low,"[""Friends""]",,Asia,Western Asia,Armenian dram,"[""Armenian"",""Russian""]",Yerevan
+Australia,Regular,"[""Solo"",""Family"",""Couple""]","[""Attractions"",""Relaxing"",""Photography"",""Adventure""]",Oceania,Australia and New Zealand,Australian dollar,"[""English""]",Canberra
+Austria,Regular,"[""Friends""]","[""Adventure"",""Photography""]",Europe,Western Europe,Euro,"[""German""]",Vienna
+Bahamas,Regular,"[""Friends""]",,Americas,Caribbean,Bahamian dollar,"[""English""]",Nassau
+Belgium,Regular,"[""Couple""]",,Europe,Western Europe,Euro,"[""Dutch"",""French"",""German""]",Brussels
+Belize,Regular,"[""Couple""]","[""Adventure"",""Relaxing""]",Americas,Central America,Belize dollar,"[""English"",""Spanish""]",Belmopan
+Bermuda,Regular,"[""Friends"",""Couple""]",,Americas,Northern America,Bermudian dollar,"[""English""]",Hamilton
+Bolivia,Low,"[""Friends""]","[""Adventure""]",Americas,South America,Bolivian boliviano,"[""Spanish"",""Aymara"",""Quechua""]",Sucre
+Brazil,Regular,,"[""Attractions"",""Photography""]",Americas,South America,Brazilian real,"[""Portuguese""]",Brasília
+British Virgin Islands,Regular,"[""Couple""]",,Americas,Caribbean,United States dollar,"[""English""]",Road Town
+Bulgaria,Low,"[""Couple"",""Family""]",,Europe,Eastern Europe,Bulgarian lev,"[""Bulgarian""]",Sofia
+Cambodia,Low,"[""Friends""]","[""Attractions"",""Relaxing"",""Photography""]",Asia,South-Eastern Asia,Cambodian riel,"[""Khmer""]",Phnom Penh
+Canada,Regular,"[""Solo"",""Family"",""Friends""]","[""Adventure"",""Attractions"",""Relaxing""]",Americas,Northern America,Canadian dollar,"[""English"",""French""]",Ottawa
+Chile,Regular,"[""Family"",""Couple""]","[""Adventure"",""Relaxing""]",Americas,South America,Chilean peso,"[""Spanish""]",Santiago
+China,Regular,,"[""Attractions"",""Relaxing""]",Asia,Eastern Asia,Chinese yuan,"[""Chinese""]",Beijing
+Colombia,Low,"[""Friends""]","[""Adventure"",""Photography""]",Americas,South America,Colombian peso,"[""Spanish""]",Bogotá
+Costa Rica,Regular,"[""Family"",""Couple""]","[""Adventure"",""Relaxing""]",Americas,Central America,Costa Rican colón,"[""Spanish""]",San José
+Croatia,Low,"[""Family"",""Friends"",""Couple""]","[""Relaxing"",""Parties""]",Europe,Southern Europe,Croatian kuna,"[""Croatian""]",Zagreb
+Cuba,Regular,"[""Solo"",""Friends""]",,Americas,Caribbean,Cuban convertible peso,"[""Spanish""]",Havana
+Cyprus,Low,"[""Couple""]",,Europe,Southern Europe,Euro,"[""Greek"",""Turkish"",""Armenian""]",Nicosia
+Czech Republic,Regular,"[""Friends"",""Couple""]","[""Attractions"",""Parties""]",Europe,Eastern Europe,Czech koruna,"[""Czech"",""Slovak""]",Prague
+Denmark,Regular,"[""Friends""]",,Europe,Northern Europe,Danish krone,"[""Danish""]",Copenhagen
+Dominican Republic,Regular,,"[""Adventure""]",Americas,Caribbean,Dominican peso,"[""Spanish""]",Santo Domingo
+Ecuador,Regular,,"[""Adventure""]",Americas,South America,United States dollar,"[""Spanish""]",Quito
+Egypt,Regular,,"[""Adventure"",""Attractions""]",Africa,Northern Africa,Egyptian pound,"[""Arabic""]",Cairo
+Estonia,Low,"[""Friends""]",,Europe,Northern Europe,Euro,"[""Estonian""]",Tallinn
+Fiji,Regular,"[""Couple""]",,Oceania,Melanesia,Fijian dollar,"[""English"",""Fijian"",""Hindi"",""Urdu""]",Suva
+Finland,Regular,"[""Friends""]","[""Relaxing""]",Europe,Northern Europe,Euro,"[""Finnish"",""Swedish""]",Helsinki
+France,Regular,"[""Solo"",""Family"",""Friends"",""Couple""]","[""Attractions"",""Relaxing"",""Photography"",""Parties""]",Europe,Western Europe,Euro,"[""French""]",Paris
+French Polynesia,Regular,"[""Couple""]","[""Relaxing""]",Oceania,Polynesia,CFP franc,"[""French""]",Papeetē
+Germany,Regular,"[""Solo"",""Family""]","[""Photography""]",Europe,Western Europe,Euro,"[""German""]",Berlin
+Greece,Low,"[""Solo"",""Friends"",""Couple""]","[""Attractions"",""Relaxing"",""Photography""]",Europe,Southern Europe,Euro,"[""Greek""]",Athens
+Greenland,Regular,,"[""Adventure""]",Americas,Northern America,Danish krone,"[""Kalaallisut""]",Nuuk
+Grenada,Regular,"[""Family"",""Couple""]",,Americas,Caribbean,East Caribbean dollar,"[""English""]",St. George's
+Guatemala,Low,"[""Friends""]","[""Adventure"",""Relaxing""]",Americas,Central America,Guatemalan quetzal,"[""Spanish""]",Guatemala City
+Hong Kong,Regular,,"[""Attractions"",""Photography""]",Asia,Eastern Asia,Hong Kong dollar,"[""English"",""Chinese""]",City of Victoria
+Hungary,Regular,"[""Friends"",""Couple""]","[""Relaxing"",""Parties""]",Europe,Eastern Europe,Hungarian forint,"[""Hungarian""]",Budapest
+Iceland,Regular,"[""Solo"",""Friends"",""Couple""]","[""Adventure"",""Attractions"",""Relaxing"",""Photography""]",Europe,Northern Europe,Icelandic króna,"[""Icelandic""]",Reykjavík
+India,Low,"[""Family""]","[""Adventure"",""Attractions"",""Relaxing""]",Asia,Southern Asia,Indian rupee,"[""Hindi"",""English""]",New Delhi
+Indonesia,Low,"[""Family"",""Friends"",""Couple""]","[""Adventure"",""Relaxing"",""Photography"",""Parties""]",Asia,South-Eastern Asia,Indonesian rupiah,"[""Indonesian""]",Jakarta
+Ireland,Low,"[""Solo"",""Family"",""Friends""]","[""Photography""]",Europe,Northern Europe,Euro,"[""Irish"",""English""]",Dublin
+Italy,Low,"[""Solo"",""Family"",""Friends"",""Couple""]","[""Attractions"",""Relaxing"",""Photography""]",Europe,Southern Europe,Euro,"[""Italian""]",Rome
+Jamaica,Low,"[""Couple""]","[""Relaxing""]",Americas,Caribbean,Jamaican dollar,"[""English""]",Kingston
+Japan,Regular,"[""Solo"",""Family"",""Friends"",""Couple""]","[""Relaxing"",""Photography""]",Asia,Eastern Asia,Japanese yen,"[""Japanese""]",Tokyo
+Jordan,Regular,,"[""Attractions"",""Relaxing"",""Photography""]",Asia,Western Asia,Jordanian dinar,"[""Arabic""]",Amman
+Kenya,Low,"[""Couple""]","[""Relaxing""]",Africa,Eastern Africa,Kenyan shilling,"[""English"",""Swahili""]",Nairobi
+Laos,Low,"[""Friends""]","[""Relaxing""]",Asia,South-Eastern Asia,Lao kip,"[""Lao""]",Vientiane
+Latvia,Low,"[""Friends""]",,Europe,Northern Europe,Euro,"[""Latvian""]",Riga
+Lithuania,Low,"[""Friends""]",,Europe,Northern Europe,Euro,"[""Lithuanian""]",Vilnius
+Madagascar,Regular,,"[""Adventure""]",Africa,Eastern Africa,Malagasy ariary,"[""French"",""Malagasy""]",Antananarivo
+Malaysia,Regular,"[""Solo"",""Family"",""Friends""]","[""Attractions"",""Relaxing"",""Photography""]",Asia,South-Eastern Asia,Malaysian ringgit,"[""Malaysian""]",Kuala Lumpur
+Maldives,Regular,"[""Couple""]","[""Relaxing"",""Photography""]",Asia,Southern Asia,Maldivian rufiyaa,"[""Divehi""]",Malé
+Malta,Low,"[""Family""]",,Europe,Southern Europe,Euro,"[""Maltese"",""English""]",Valletta
+Mexico,Low,"[""Family"",""Friends"",""Couple""]","[""Attractions"",""Relaxing""]",Americas,Central America,Mexican peso,"[""Spanish""]",Mexico City
+Morocco,Low,"[""Solo"",""Friends"",""Couple""]","[""Adventure"",""Relaxing"",""Photography""]",Africa,Northern Africa,Moroccan dirham,"[""Arabic""]",Rabat
+Myanmar,Regular,,"[""Relaxing"",""Photography""]",Asia,South-Eastern Asia,Burmese kyat,"[""Burmese""]",Naypyidaw
+Namibia,Regular,,"[""Adventure""]",Africa,Southern Africa,Namibian dollar,"[""English"",""Afrikaans""]",Windhoek
+Nepal,Low,"[""Friends""]",,Asia,Southern Asia,Nepalese rupee,"[""Nepali""]",Kathmandu
+Netherlands,Regular,"[""Solo"",""Friends""]","[""Relaxing""]",Europe,Western Europe,Euro,"[""Dutch""]",Amsterdam
+New Zealand,Regular,"[""Solo"",""Family""]","[""Adventure"",""Relaxing"",""Photography""]",Oceania,Australia and New Zealand,New Zealand dollar,"[""English"",""Māori""]",Wellington
+Norway,Regular,"[""Family""]","[""Photography""]",Europe,Northern Europe,Norwegian krone,"[""Norwegian"",""Norwegian Bokmål"",""Norwegian Nynorsk""]",Oslo
+Panama,Regular,"[""Family""]","[""Attractions""]",Americas,Central America,Panamanian balboa,"[""Spanish""]",Panama City
+Peru,Regular,"[""Solo"",""Family"",""Friends""]","[""Adventure"",""Attractions"",""Relaxing""]",Americas,South America,Peruvian sol,"[""Spanish""]",Lima
+Philippines,Low,"[""Friends""]","[""Parties""]",Asia,South-Eastern Asia,Philippine peso,"[""English""]",Manila
+Poland,Low,"[""Solo""]",,Europe,Eastern Europe,Polish złoty,"[""Polish""]",Warsaw
+Portugal,Low,"[""Solo"",""Family"",""Friends"",""Couple""]","[""Relaxing""]",Europe,Southern Europe,Euro,"[""Portuguese""]",Lisbon
+Puerto Rico,Low,"[""Solo""]",,Americas,Caribbean,United States dollar,"[""Spanish"",""English""]",San Juan
+Romania,Low,"[""Friends""]",,Europe,Eastern Europe,Romanian leu,"[""Romanian""]",Bucharest
+Russia,Regular,,"[""Attractions""]",Europe,Eastern Europe,Russian ruble,"[""Russian""]",Moscow
+Singapore,Regular,"[""Solo""]","[""Photography"",""Parties""]",Asia,South-Eastern Asia,Brunei dollar,"[""English"",""Malay"",""Tamil"",""Chinese""]",Singapore
+Slovenia,Regular,,"[""Adventure"",""Relaxing"",""Photography""]",Europe,Southern Europe,Euro,"[""Slovene""]",Ljubljana
+South Africa,Regular,"[""Family"",""Couple""]","[""Adventure"",""Relaxing"",""Photography""]",Africa,Southern Africa,South African rand,"[""Afrikaans"",""English"",""Southern Ndebele"",""Southern Sotho"",""Swati"",""Tswana"",""Tsonga"",""Venda"",""Xhosa"",""Zulu""]",Pretoria
+South Korea,Low,"[""Solo""]",,Asia,Eastern Asia,North Korean won,"[""Korean""]",Pyongyang
+Spain,Low,"[""Solo"",""Family"",""Friends"",""Couple""]","[""Attractions"",""Relaxing"",""Parties"",""Photography""]",Europe,Southern Europe,Euro,"[""Spanish""]",Madrid
+Sri Lanka,Low,"[""Family""]","[""Adventure"",""Relaxing"",""Photography""]",Asia,Southern Asia,Sri Lankan rupee,"[""Sinhalese"",""Tamil""]",Colombo
+Sweden,Regular,"[""Solo"",""Family"",""Friends""]","[""Photography""]",Europe,Northern Europe,Swedish krona,"[""Swedish""]",Stockholm
+Switzerland,Regular,,"[""Relaxing"",""Photography""]",Europe,Western Europe,Swiss franc,"[""German"",""French"",""Italian""]",Bern
+Tanzania,Regular,"[""Solo"",""Family""]","[""Adventure""]",Africa,Eastern Africa,Tanzanian shilling,"[""Swahili"",""English""]",Dodoma
+Thailand,Regular,"[""Solo"",""Family"",""Friends"",""Couple""]","[""Adventure"",""Attractions"",""Relaxing"",""Photography"",""Parties""]",Asia,South-Eastern Asia,Thai baht,"[""Thai""]",Bangkok
+Turkey,Low,"[""Friends"",""Couple""]","[""Attractions""]",Asia,Western Asia,Turkish lira,"[""Turkish""]",Ankara
+UK,Regular,"[""Solo"",""Family""]","[""Attractions"",""Relaxing"",""Photography"",""Parties""]",Europe,Northern Europe,British pound,"[""English""]",London
+Ukraine,Low,"[""Friends""]",,Europe,Eastern Europe,Ukrainian hryvnia,"[""Ukrainian""]",Kiev
+USA,Regular,"[""Solo"",""Family"",""Friends"",""Couple""]","[""Adventure"",""Attractions"",""Relaxing"",""Photography"",""Parties""]",Americas,Northern America,United States dollar,"[""English""]","Washington, D.C."
+Uzbekistan,Regular,,"[""Adventure""]",Asia,Central Asia,Uzbekistani so'm,"[""Uzbek"",""Russian""]",Tashkent
+Vietnam,Low,"[""Friends"",""Couple""]","[""Relaxing""]",Asia,South-Eastern Asia,Vietnamese đồng,"[""Vietnamese""]",Hanoi

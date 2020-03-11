@@ -1,0 +1,41 @@
+<div class="page-header">
+  <div class="container">
+      <div class="row">
+          <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+              <div class="page-caption">
+                  <h1 class="page-title" routerLinkActive="active" routerLink="/home">Best Travel Destination</h1>
+              </div>
+          </div>
+      </div>
+  </div>
+</div>
+
+<div class="card-section">
+  <div class="container">
+      <div class="card-block bg-white mb30">
+        <div>
+          <div class="container homeScreen">
+            <div class="text-center">
+              <h3 class="title">Destinations</h3>
+            </div>
+              <div class="row">
+                  <div class="card-deck w-100 d-none d-md-block">
+                      <div *ngFor="let country of Country" class="card cardStyle cardCountry">
+                        <img class="card-img-top" src="/../../assets/images/{{country.name}}.jpg">
+                        <div class="card-body">
+                          <h5 class="card-title">{{country.name}}</h5>
+                          <p class="card-text ">Region: <span class="font-weight-light">{{country.region}}</span> </p>
+                          <p class="card-text">Sub-Region: <span class="font-weight-light">{{country.subregion}}</span></p>
+                          <p class="card-text">Capital: <span class="font-weight-light">{{country.capital}}</span></p>
+                          <p class="card-text">Currency: <span class="font-weight-light">{{country.currency}}</span></p>
+                          <p class="card-text font-italic">Language:</p>
+                          <p *ngFor="let lang of country.language" class="card-text font-weight-light">{{lang}} </p>
+                        </div>
+                      </div>
+                    </div>
+              </div>
+          </div>
+        </div>
+      </div>
+      </div>
+      </div>
